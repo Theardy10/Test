@@ -8,7 +8,7 @@ import java.io.*;
 
 /**
  * This program demonstrates operations on linked lists.
- * @version 11111 Test 1.11 2012-01-26
+ * @version Test 1.11 2012-01-26
  * @author Theard
  */
 class DelDups{
@@ -45,7 +45,7 @@ import java.io.*;
 /**
  * This program demonstrates operations on linked lists.
  * @version 1.11 2012-01-26
- * @author Cay Horstmann
+ * @author Theard
  */
 class DelDups{
     public static void main (String[] args) throws java.lang.Exception
