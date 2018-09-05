@@ -1,7 +1,6 @@
 
 
                                 /*TWO VERSIONS OF DEL DUPS*/
-                                /*delDups with function*/
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -9,8 +8,8 @@ import java.io.*;
 
 /**
  * This program demonstrates operations on linked lists.
- * @version 1.11 2012-01-26
- * @author Cay Horstmann
+ * @version Test 1.11 2012-01-26
+ * @author Theard
  */
 class DelDups{
  public static void main (String[] args) throws java.lang.Exception
