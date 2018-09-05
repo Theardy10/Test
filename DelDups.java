@@ -7,7 +7,6 @@ import java.io.*;
 
 
 /**
- * This program demonstrates operations on linked lists.
  * @version Test 1.11 2012-01-26
  * @author Theard
  */
@@ -43,7 +42,6 @@ import java.io.*;
 
 
 /**
- * This program demonstrates operations on linked lists.
  * @version 1.11 2012-01-26
  * @author Theard
  */
