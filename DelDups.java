@@ -8,7 +8,7 @@ import java.io.*;
 
 /**
  * This program demonstrates operations on linked lists.
- * @version Test 1.11 2012-01-26
+ * @version 11111 Test 1.11 2012-01-26
  * @author Theard
  */
 class DelDups{
